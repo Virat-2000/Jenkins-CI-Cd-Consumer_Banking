@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "New Changes on GitHub...!!!);
+        System.out.println( "new changes on gitHub!!!);
     }
 }
